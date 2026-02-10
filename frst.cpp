@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"hiiiiiiijjj";
-    return 0;
+    int a;
+    cout<<"enter the number : ";
+    cin>>a;
+    cout<<a;
+   return 0; 
 }
